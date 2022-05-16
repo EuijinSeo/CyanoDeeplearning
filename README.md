@@ -4,16 +4,16 @@ In this research, we generated synthetic promoter sequence of cyanobactera(*Syne
 ![Figure 1](https://user-images.githubusercontent.com/97028331/168530899-fbe16990-76a7-44d8-a5d5-317660996a67.png)
 
 ### Promoter data mining
-We uploaded jupyter notebook file for promoter data mining. We used whole-genome sequence and differential-RNA sequencing results from Kopf et al., which are available at [http://www.cyanolab.de/Supplementary.html]. Through this code, user can obtain the promoter sequences(100 base pairs) and their strength.  
+We uploaded jupyter notebook file(Promoter data mining.ipynb) for promoter data mining. We used whole-genome sequence and differential-RNA sequencing results from Kopf et al., which are available at [http://www.cyanolab.de/Supplementary.html]. Through this code, user can obtain the promoter sequences(100 base pairs) and their strength.  
 
 ### VAE model training and evaulation
-We uploaded jupyter notebook file for training VAE model. We used result of **Promoter data mining.ipynb** as training dataset. For evaluation of the VAE model results, we also uploaded the code for 6-mer(TATAAT, TAAAAT, TAGAAT, AAAATA) frequency analysis.
+We uploaded jupyter notebook file(VAE training.ipynb) for training VAE model. We used result of **Promoter data mining.ipynb** as training dataset. For evaluation of the VAE model results, we also uploaded the code(VAE validation.ipynb) for 6-mer(TATAAT, TAAAAT, TAGAAT, AAAATA) frequency analysis.
 
 ### CNN model training
-We uploaded jupyter notebooke file for tranining CNN model. 5-Fold cross validation was used in the model training to avoid overfitting which can occur in small dataset. 
+We uploaded jupyter notebooke file(CNN training.ipynb) for tranining CNN model. 5-Fold cross validation was used in the model training to avoid overfitting which can occur in small dataset. 
 
 ### Data refinement and new CNN model training
-We uploaded jupyter notebook file for data refinement, which is the process selecting the **NANNNT-containing**, **NANANT-containing**, **TANNNT-containing** and **TANANT-containing promoters** from native promoter dataset. We also uploaded code for training the 4 CNN models that are trained in each refined dataset.
+We uploaded jupyter notebook file(Data refinement and new CNN model training.ipynb) for data refinement and new CNN model training, which is the process selecting the **NANNNT-containing**, **NANANT-containing**, **TANNNT-containing** and **TANANT-containing promoters** from native promoter dataset. We also uploaded code for training the 4 CNN models that are trained in each refined dataset.
 
 ## Prerequisites
 - Python, NumPy, TensorFlow, SciPy, Matplotlib, Keras
