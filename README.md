@@ -18,10 +18,11 @@ We uploaded the code for data refinment, which is the process selecting the **NA
 - Python, NumPy, TensorFlow, SciPy, Matplotlib, Keras
 - NVIDIA GPU
 - TensorFlow == 2.0.0
-- Cuda == 9.0
+- Cuda == 10.0
 - Python == 3.6.0
 
 ## Citation
 Seo, E.†, Choi, Y.-N.†, Shin, Y., Kim, D., and Lee, J.W.* “Design of synthetic promoters for cyanobacteria with generative deep-learning model”, (in revision). († co-first)
 
 ## Reference
+
