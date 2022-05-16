@@ -18,3 +18,10 @@ We uploaded code for tranining CNN model. 5-Fold cross validation was used in th
 ### Data refinement and new CNN model training
 
 We uploaded the code for data refinment, which is the process selecting the **NANNNT-containing**, **NANANT-containing**, **TANNNT-containing** and **TANANT-containing promoters** from natural promoter dataset. We also uploaded code for training the 4 CNN models that are trained in each refined dataset.
+
+## Prerequisites
+- Python, NumPy, TensorFlow, SciPy, Matplotlib, Keras
+- NVIDIA GPU
+- TensorFlow == 2.0.0
+- Cuda == 9.0
+- Python == 3.6.0
