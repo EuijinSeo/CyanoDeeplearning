@@ -25,4 +25,6 @@ We uploaded the code for data refinment, which is the process selecting the **NA
 Seo, E.†, Choi, Y.-N.†, Shin, Y., Kim, D., and Lee, J.W.* “Design of synthetic promoters for cyanobacteria with generative deep-learning model”, (in revision). († co-first)
 
 ## Reference
-
+1.asss
+2.sadf
+3.asdf
