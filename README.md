@@ -5,7 +5,7 @@ newly synthetized promoter seqeunce via variational autoencoder(VAE), which is o
 
 ### Promoter data mining
 
-We uploaded code for promoter data mining. We used whole-genome sequence and differential-RNA sequencing results from Kopf et al., which are available at [link]. Through this code, user can be obtain the promoters whose lengths are 100 base pairs and their strengts.  
+We uploaded code for promoter data mining. We used whole-genome sequence and differential-RNA sequencing results from Kopf et al., which are available at [link]. Through this code, user can be obtain the promoters whose lengths are 100 base pairs and their strengths.  
 
 ### VAE model traninig and evaulation
 
