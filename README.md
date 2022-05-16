@@ -9,8 +9,8 @@ We uploaded code for promoter data mining. We used whole-genome sequence and dif
 
 # VAE model traninig and evaulation
 
-We uploaded code for tranining VAE model. For evaluation of the VAE model results, we also uploaded the code for 6-mer(TATAAT, TAAAAT, TAGAAT, AAAATA) frequency.
+We uploaded code for tranining VAE model. We used promoter sequence of **Promoter data mining.ipynb** for training dataset. For evaluation of the VAE model results, we also uploaded the code for 6-mer(TATAAT, TAAAAT, TAGAAT, AAAATA) frequency.
 
 # CNN model training
 
-We uploaded code for tranining VAE model.   
+We uploaded code for tranining CNN model. 5-Fold cross validation was used in the model training to avoid overfitting which can occur in small dataset. 
