@@ -14,3 +14,7 @@ We uploaded code for tranining VAE model. We used promoter sequence of **Promote
 # CNN model training
 
 We uploaded code for tranining CNN model. 5-Fold cross validation was used in the model training to avoid overfitting which can occur in small dataset. 
+
+# Data refinement and new CNN model training
+
+We uploaded the code for data refinment, which is the process selecting the **NANNNT-containing**, **NANANT-containing**, **TANNNT-containing** and **TANANT-containing promoters** from natural promoter dataset. We also uploaded code for training the 4 CNN models that are trained in each refined dataset.
