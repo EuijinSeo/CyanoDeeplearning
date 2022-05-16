@@ -25,6 +25,6 @@ We uploaded the code for data refinment, which is the process selecting the **NA
 Seo, E.†, Choi, Y.-N.†, Shin, Y., Kim, D., and Lee, J.W.* “Design of synthetic promoters for cyanobacteria with generative deep-learning model”, (in revision). († co-first)
 
 ## Reference
-1. asss
-2. sadf
-3. asdf
+1. Kingma D, Welling M. Auto-encoding variational bayes 2013 arXiv preprint arXiv:1312.6114.
+2. Kopf M, Klähn S, Scholz I, Matthiessen JKF, Hess WR, Voß B. Comparative analysis of the primary transcriptome of Synechocystis sp. PCC 6803. DNA Res. 2014 Oct;21(5):527–539. 
+3. Wang Y, Wang H, Wei L, Li S, Liu L, Wang X. Synthetic promoter design in Escherichia coli based on a deep generative network. Nucleic Acids Res. 2020 Jul 9;48(12):6403–6412. 
