@@ -18,3 +18,5 @@ Seo, E.†, Choi, Y.-N.†, Shin, Y., Kim, D., and Lee, J.W.\* “Design of synt
 2. Kopf M, Klähn S, Scholz I, Matthiessen JKF, Hess WR, Voß B. Comparative analysis of the primary transcriptome of Synechocystis sp. PCC 6803. DNA Res. 2014 Oct;21(5):527–539. 
 3. Wang Y, Wang H, Wei L, Li S, Liu L, Wang X. Synthetic promoter design in Escherichia coli based on a deep generative network. Nucleic Acids Res. 2020 Jul 9;48(12):6403–6412. 
 4. Choi, Y.-N., Shin, Y., Park, J.M.\*, and Lee, J.W.\* “Cell-free transcription-coupled CRISPR/Cas12a assay for prototyping cyanobacterial promoters”, ACS Synth. Biol., 10(6): 1300-1307 (2021). (* co-corresponding)
+5. Cuperus, J.T., Groves, B., Kuchina, A., Rosenberg, A.B., Jojic, N., Fields, N., and Seelig, G. Deep learning of the regulatory grammar of yeast 5' untranslated regions from 500,000 random sequences, Genome Res., 27: 2015-2024 (2017)
+6. Convolutional Variational Autoencoder, https://www.tensorflow.org/tutorials/generative/cvae
